@@ -1,2 +1,3 @@
 # ML_project
-https://github.com/shera-amit/Coursera-capstone-final
+This is the final hands on project for IBM professional Data Science Certificate
+
